@@ -1,0 +1,39 @@
+.img-space{
+	width: 100%;
+}
+div.type1-img{
+	border: 2px solid #80d4ff;
+	margin: 5px 15px;
+	float: left;
+}
+div.type1-img:hover{
+	border: 2px solid #33bbff;
+}
+.type1-img img{
+	height: 140px;
+	width: 180px;
+}
+.type1-img span{
+	margin: 0 10px;
+}
+.clear{
+	clear: both;
+}
+.type1-option{
+	width: 100px;
+	height: 30px;
+	border: 2px solid #555;
+	text-align: center;
+	margin: 30px ;
+	float: left;
+	padding: 10px;
+}
+.selected{
+	border: 2px solid steelblue;
+	background: #b3e6ff;
+}
+.submit-answer{
+	padding: 8px;
+	background: #4dff4d;
+	margin:0 20px;
+}
